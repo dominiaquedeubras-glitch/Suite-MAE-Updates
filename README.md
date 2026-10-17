@@ -10,7 +10,7 @@ Ce dépôt sert **uniquement à distribuer les mises à jour compilées de Suite
 
 ## État actuel
 
-**Préparation du canal en cours.** Aucun `latest.json` actif n'est publié pour l'instant et aucune nouvelle version n'est disponible via ce dépôt.
+**Canal de référence publié.** Le fichier `latest.json` est disponible et signé. Il désigne uniquement la version déjà installée sur le PC d'essai : **ne pas la retélécharger comme une nouvelle mise à jour**. La connexion au PC reste à valider.
 
 Le fichier `verification.json` permet de tester que les liens GitHub renvoient du JSON brut, contrairement aux liens Google Drive qui ont échoué sur le PC d'essai.
 
@@ -28,5 +28,5 @@ Le fichier `verification.json` permet de tester que les liens GitHub renvoient d
 ## Liens
 
 - Vérification JSON brute : `https://raw.githubusercontent.com/dominiaquedeubras-glitch/Suite-MAE-Updates/main/verification.json`
-- Futur canal signé : `https://raw.githubusercontent.com/dominiaquedeubras-glitch/Suite-MAE-Updates/main/latest.json` (**indisponible tant que la publication n'est pas prête**)
+- Canal signé : `https://raw.githubusercontent.com/dominiaquedeubras-glitch/Suite-MAE-Updates/main/latest.json`
 - Fichiers Windows : onglet **Releases** de ce dépôt.
