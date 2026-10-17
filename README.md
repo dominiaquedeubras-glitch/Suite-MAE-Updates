@@ -10,7 +10,7 @@ Ce dépôt sert **uniquement à distribuer les mises à jour compilées de Suite
 
 ## État actuel
 
-**Canal de référence publié.** Le fichier `latest.json` est disponible et signé. Il désigne uniquement la version déjà installée sur le PC d'essai : **ne pas la retélécharger comme une nouvelle mise à jour**. La connexion au PC reste à valider.
+**Canal Lot 393 publié.** Le fichier `latest.json` est disponible et signé. Il désigne le correctif 393, déjà installé sur le PC d'essai : **ne pas le retélécharger comme une nouvelle mise à jour**. La vérification de l'accès au canal depuis l'interface sous Windows reste à effectuer.
 
 Le fichier `verification.json` permet de tester que les liens GitHub renvoient du JSON brut, contrairement aux liens Google Drive qui ont échoué sur le PC d'essai.
 
@@ -23,7 +23,7 @@ Le fichier `verification.json` permet de tester que les liens GitHub renvoient d
 5. Publier `latest.json` **en dernier**, après vérification que le ZIP est téléchargeable.
 6. Tester le bouton de Suite MAE et l'installation sous Windows avec des copies de romans.
 
-**Attention :** le paquet de référence du 17 octobre 2026 est déjà installé sur le PC d'essai. Il ne doit pas être annoncé comme une nouvelle mise à jour à installer.
+**Attention :** le correctif 393 du 18 octobre 2026 est déjà installé sur le PC d'essai. Il ne doit pas être réinstallé comme une nouvelle mise à jour. L'interface actuelle vérifie le canal signé, mais ne compare pas encore automatiquement la révision distante à la révision installée.
 
 ## Liens
 
