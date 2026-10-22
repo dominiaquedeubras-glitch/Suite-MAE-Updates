@@ -1,7 +1,7 @@
 {
   "format": "suite-mae-update-v1",
-  "revision": "b17555a959873923cda5c3752fa3762701de30a5",
-  "package_url": "https://github.com/dominiaquedeubras-glitch/Suite-MAE-Updates/releases/download/mae-20261022-interface/SuiteMAE-Programme-Interface-20261022.zip",
-  "sha256": "b7fa77ba4821fc340743109ca3d2ee645e5aa518334eae62e94e75fcfbf0a230",
-  "signature": "IHsX7GPdYzMw+zU4PhW0Il82hjfkVQL4tLHnDdZ5xlw6zIgighVFHuavfAfic79DHgzqGE1Gmy0E/l/GkmU0AA=="
+  "revision": "b05859d6967a4e0a5280c32ba469168e54863ca4",
+  "package_url": "https://github.com/dominiaquedeubras-glitch/Suite-MAE-Updates/releases/download/mae-20261022-fusion/SuiteMAE-Programme-Fusion-20261022.zip",
+  "sha256": "40897d27546c2c21b420a6dbc25d667480b14f7d8d918fd651db342bf5405c41",
+  "signature": "mBA238ay5iQVvWumtpPFHBUi9aDVjAZIaQJl3sLSH84e409prrJxE0s6jH3YgMHtifeySCdM2oiMrqhekAx2Ag=="
 }
