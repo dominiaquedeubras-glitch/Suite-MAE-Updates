@@ -1,7 +1,7 @@
 {
   "format": "suite-mae-update-v1",
-  "revision": "e53efb8e986b0a232752d2dce3a5443419168082",
-  "package_url": "https://github.com/dominiaquedeubras-glitch/Suite-MAE-Updates/releases/download/mae-20261023-lot16-e53efb8e986b/SuiteMAE-Programme-Lot16-e53efb8e986b.zip",
-  "sha256": "fbccd4d7e0ba61cf3c17118a76e492c7c735b2b660256434357cc96303cfc061",
-  "signature": "1J4EwAn+7/bt1WZgg5cKzm8P0LgED+i0nPuehdRtfiwxSndy0159Ph2aJuNDAgNlbw3vWxYF7tlCi0TpU5QMBA=="
+  "revision": "d281770668a17225bb747a17742551e204712c6b",
+  "package_url": "https://github.com/dominiaquedeubras-glitch/Suite-MAE-Updates/releases/download/mae-20261023-lot16-d281770668a1/SuiteMAE-Programme-Lot16-d281770668a1.zip",
+  "sha256": "fa9040c4bb2d21221ef796bd4a42d5dcecba08278d0087b66f41d13bc4633561",
+  "signature": "9bSaWT2YvRDiBkWTcnTQ78e1B8xShy0Rn7eYio5PZPr54a03CT6t8V7ne1dAy11uT1P2m7K3KCqtycItXtfzDA=="
 }
